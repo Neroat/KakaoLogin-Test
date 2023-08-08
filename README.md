@@ -38,4 +38,9 @@ logging:
 ```
 
 
-### 위와 같은 양식으로 작성해주면 됩니다.
+### 위와 같은 양식으로 작성해주면 됩니다.  
+
+---  
+
+### 테스트 주소
+https://kauth.kakao.com/oauth/authorize?client_id={RESTAPI_KEY}&redirect_uri={REDIRECT_URL}&response_type=code
